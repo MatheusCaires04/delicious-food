@@ -1,0 +1,26 @@
+// COLORS
+$red: #ff3838;
+$black: #000;
+$white: #fff;
+$bg: #f7f7f7;
+$grey: #666;
+$grey-dark: #333;
+$stars: gold;
+
+// FONT
+$font-g: 63.5%;
+$font-m: 55%;
+$font-s: 50%;
+$font-title: 4rem;
+$font-subTitle: 3rem;
+$font-link: 1.5rem;
+$font-p: 1.4rem;
+$font-span: 1.5rem;
+$font-btn: 1.5rem;
+
+// MIXINS
+@mixin flexGrid {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
